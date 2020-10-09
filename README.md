@@ -1,4 +1,4 @@
-# Machine Learning: Drug Estimator
+# ML Classification: Drug Estimator
 "**Decision Tree** algorithm that estimates which Drug is more effective for each class of patients"
 
 * Created a **Decision Tree** algorithm that estimates the best Drug (accuracy score **98%**) for patients given Age, Sex, Blood Pressure, Cholesterol and Sodium to Potassium Ratio.
